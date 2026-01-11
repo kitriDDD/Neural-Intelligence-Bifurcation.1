@@ -18,3 +18,4 @@ The data suggests $\pi_0(\mathcal{R}_{intelligence}) = 2$.
 The ridges are disconnected components in parameter space, with a phase transition occurring at $V(\theta) \approx 0.52$.
 
 ![Results](pti_vann_results.png)
+https://colab.research.google.com/drive/1rUaKQZhtXb6cSogTF8TZq2XjZz5smSEA?usp=sharing
